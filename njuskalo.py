@@ -428,7 +428,6 @@ time.sleep(5)
 
 driver.close()
 
-print("testinggg")
-print("testing2")
+
 print("testing3"
       "")
