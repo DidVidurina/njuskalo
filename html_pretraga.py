@@ -10,6 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
 print("test")
+print("test3")
 
 URL = 'https://www.njuskalo.hr/prodaja-kuca/bjelovar'
 
