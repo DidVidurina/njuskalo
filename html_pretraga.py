@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
-print("tes1t")
+print("tes11t")
 print("test3")
 
 URL = 'https://www.njuskalo.hr/prodaja-kuca/bjelovar'
