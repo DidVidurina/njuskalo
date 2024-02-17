@@ -9,11 +9,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 print("tes1t")
 =======
 print("test3")
 >>>>>>> Stashed changes
+=======
+print("tes11t")
+>>>>>>> the
 print("test3")
 
 
