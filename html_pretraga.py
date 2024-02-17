@@ -23,7 +23,7 @@ driver = webdriver.Chrome(service=service)
 driver.get(URL)
 
 soup = BeautifulSoup(driver.page_source, 'html.parser')
-print("we up")
+print("we down")
 
 URL = 'https://www.njuskalo.hr/prodaja-kuca/bjelovar'
 
