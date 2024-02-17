@@ -9,18 +9,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-print("tes1t")
-=======
-print("test3")
->>>>>>> Stashed changes
-=======
-print("tes11t")
->>>>>>> the
-print("test3")
 
-
+print("you say nah")
 
 service = Service("C:/Users/DELL/Desktop/chrome/chromedriver.exe")
 driver = webdriver.Chrome(service=service)
