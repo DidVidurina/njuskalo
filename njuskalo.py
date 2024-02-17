@@ -22,6 +22,7 @@ locale.setlocale(locale.LC_ALL, 'en_US')
 URL = 'https://www.njuskalo.hr/'
 
 print("new change")
+"and so"
 
 
 service = Service("C:/Users/DELL/Desktop/chrome/chromedriver.exe")
