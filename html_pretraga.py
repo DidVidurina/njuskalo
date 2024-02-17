@@ -16,7 +16,7 @@ print("test3")
 >>>>>>> Stashed changes
 print("test3")
 
-URL = 'https://www.njuskalo.hr/prodaja-kuca/bjelovar'
+
 
 service = Service("C:/Users/DELL/Desktop/chrome/chromedriver.exe")
 driver = webdriver.Chrome(service=service)
