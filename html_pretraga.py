@@ -9,7 +9,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
+<<<<<<< Updated upstream
 print("tes1t")
+=======
+print("test3")
+>>>>>>> Stashed changes
 print("test3")
 
 URL = 'https://www.njuskalo.hr/prodaja-kuca/bjelovar'
