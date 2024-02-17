@@ -11,6 +11,8 @@ from selenium.webdriver.common.keys import Keys
 
 print("teSSst")
 print("test3")
+print("test3")
+print("test3")
 
 URL = 'https://www.njuskalo.hr/prodaja-kuca/bjelovar'
 
